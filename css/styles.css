@@ -56,3 +56,11 @@ p{
       margin-top: 100px;
       margin-bottom: 45px;
 }
+
+@media (max-width: 768px) {
+  
+  .divLength{
+    height: 2500px;
+  }
+  
+}
